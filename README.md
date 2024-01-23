@@ -1,4 +1,4 @@
-# rest_api
+# RestApi
  
 ## How to launch a project
 
